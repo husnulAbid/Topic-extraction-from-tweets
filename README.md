@@ -6,3 +6,6 @@ People all around the world are now spent huge amount of time on various social 
 
 
 As the influencers are leaders of the digital world, it will help us to understand how they are shaping the world by influencing people on various issues. After finding the theme of the tweets and analyzing the topics, we can also gather knowledge on the social impacts. The purpose of this analysis is to identify in which topics top influencers discuss more on twitter. Topic extraction from a tweet is the prime goal of this project. Also, finding the relationship among the influencers are also a part of the project.
+
+
+For more details, please find the report of this project [here.](https://github.com/husnulAbid/Topic-extraction-from-tweets/blob/main/Report.pdf)
